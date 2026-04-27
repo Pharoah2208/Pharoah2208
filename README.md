@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Shreyas 👋
 
-<!--
-**Pharoah2208/Pharoah2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergrad @ Parul University | SAP ABAP Cloud Certified | React Native • Python • SAP BTP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🏍️ SafeRide (v1)
+Real-time bike accident detection app built with React Native (Expo) and TypeScript.
+Uses smartphone GPS + accelerometer with multi-signal confidence scoring to detect crashes,
+confirm with rider, and send SMS emergency alerts with live location — works offline too.
+> `React Native` `TypeScript` `Expo` `GPS` `Accelerometer`
+
+### 🎓 StudentGrievance
+Full-stack student grievance portal with AI-powered complaint routing, community voting,
+auto-escalation, and role-based access control.
+> `React` `TypeScript` `Node.js` `PostgreSQL` `Drizzle ORM`
+
+### 🔷 SAP Fiori Frontend
+SAP Fiori frontend project with authenticated student form.
+> `JavaScript` `SAP` `Fiori`
+
+---
+
+## 🛠️ Tech Stack
+`Python` `TypeScript` `JavaScript` `ABAP` `React Native` `Node.js` `MySQL` `PostgreSQL` `SAP BTP` `Git`
+
+---
+
+## 📜 Certifications
+- SAP Certified Associate – Back-End Developer (ABAP Cloud)
+- NPTEL – Computer Networks and Internet Protocol
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shreyas-srivastava-b85488353)
